@@ -49,7 +49,7 @@ for my home network, running on Ubuntu Server.
 
 **Solution:**
 - used `apt --fix-broken install` to fix anything that might cause the error
-- rebooted after (among other things) the kernel got updated
+- rebooted after the kernel (among other things) got updated
 
 ## Configuration
 - pi-hole requires a static IP address, which I configured by DHCP reservation through the router
